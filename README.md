@@ -36,7 +36,7 @@ This project presents an interactive Power BI dashboard for analysing South Indi
 The project uses a sample restaurant sales dataset.
 
 ## Author
-Aayushi Dehankar and Kanika
+Aayushi Dehankar
 
 ## Dashboard Screenshot
 See the Dashboard_Screenshot.png file in this repository.
